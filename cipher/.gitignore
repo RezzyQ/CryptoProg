@@ -1,0 +1,11 @@
+# Просто что бы не коммитить лишнее
+*.o
+*.exe
+crypto_tool
+test_*
+build/
+*.bin
+*.enc
+*.dec
+.DS_Store
+*.out
